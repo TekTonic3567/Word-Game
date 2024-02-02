@@ -1,5 +1,5 @@
 ### GabrielH_wordgame.py
-### COMSC174, Gabriel Hesse
+### Gabriel Hesse
 ### November 24, 2023
 ### Time spent = 30 mins
 
